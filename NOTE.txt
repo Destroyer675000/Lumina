@@ -1,0 +1,5 @@
+Error: right of the bat, one can not simply collide with the enemy 
+and shoot a bullet that will hit the enemy at the same time becasue that call an error that makes the game break.
+
+
+The second thing is that you as the player will only have 2 minutes to get a high score
